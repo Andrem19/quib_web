@@ -111,7 +111,7 @@ class Maze extends StatelessWidget {
                                       ),
                                       onPressed: () {
                                         controller.toGame(
-                                            'https://mazegame-1cf72.web.app/#/',
+                                            'https://example.com/maze',
                                             'go to the Play Market');
                                       },
                                     ),
